@@ -1,5 +1,8 @@
 ### **Triggering two handler method on one project.**
 
+![console work](https://github.com/prshrestha/multiple-lambda-handler/blob/add-video/lambda.gif)
+
+![console work video](https://github.com/prshrestha/multiple-lambda-handler/blob/add-video/lambda.mov)
 
 run mvn clean package shade:shade to package the jar.
 
@@ -12,6 +15,3 @@ Link the jar stored on S3 bucket to the lambda source code.
 Write the handler method.
 
 Test the function by passing a String from the test console.
-
-
-
