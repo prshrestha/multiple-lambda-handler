@@ -2,11 +2,7 @@
 
 Gif of the console work
 
-https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif
-
-
 ![console work](https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif)
-
 
 
 run mvn clean package shade:shade to package the jar.
