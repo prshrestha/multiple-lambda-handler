@@ -1,7 +1,7 @@
 ### **Triggering two handler method on one project.**
 
 Gif of the console work
-- https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif
+https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif
 
 
 ![console work](https://github.com/prshrestha/multiple-lambda-handler/blob/add-video/lambda.gif)
