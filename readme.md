@@ -5,7 +5,7 @@ Gif of the console work
 https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif
 
 
-![console work](https://github.com/prshrestha/multiple-lambda-handler/blob/add-video/lambda.gif)
+![console work](https://github.com/prshrestha/multiple-lambda-handler/blob/master/lambda.gif)
 
 
 
